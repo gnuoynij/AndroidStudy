@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096911679509",
+    "firebase_url": "https://adate-b6f15.firebaseio.com",
+    "project_id": "adate-b6f15",
+    "storage_bucket": "adate-b6f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096911679509:android:88e1a3739e05254aa35e1c",
+        "android_client_info": {
+          "package_name": "com.example.adate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096911679509-qses3n2u1tgnrn9qduoh30urmek3oadd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81e4QWLrAHAjlMCx9Wy-pKEuThelo23w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096911679509-qses3n2u1tgnrn9qduoh30urmek3oadd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
